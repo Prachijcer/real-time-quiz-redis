@@ -1,0 +1,57 @@
+[
+  {
+    "attempt_id": "att_1",
+    "username": "prachi",
+    "quiz_id": "quiz_python_basics",
+    "score": 9,
+    "total_questions": 10,
+    "percentage": 90.0,
+    "time_taken_seconds": 180,
+    "submitted_at": "2026-08-18 10:15:00",
+    "answers": {"q_py_1": "def", "q_py_2": "3", "q_py_3": "Tuple", "q_py_4": "Sequence from 1 to 4", "q_py_5": "# comment", "q_py_6": "math", "q_py_7": "9", "q_py_8": "strip()", "q_py_9": "False", "q_py_10": "ValueError"}
+  },
+  {
+    "attempt_id": "att_2",
+    "username": "shivam",
+    "quiz_id": "quiz_python_basics",
+    "score": 8,
+    "total_questions": 10,
+    "percentage": 80.0,
+    "time_taken_seconds": 210,
+    "submitted_at": "2026-08-18 10:20:00",
+    "answers": {"q_py_1": "def", "q_py_2": "3", "q_py_3": "Tuple", "q_py_4": "Sequence from 1 to 4", "q_py_5": "# comment", "q_py_6": "math", "q_py_7": "9", "q_py_8": "trim()", "q_py_9": "False", "q_py_10": "ValueError"}
+  },
+  {
+    "attempt_id": "att_3",
+    "username": "ananya",
+    "quiz_id": "quiz_python_basics",
+    "score": 7,
+    "total_questions": 10,
+    "percentage": 70.0,
+    "time_taken_seconds": 240,
+    "submitted_at": "2026-08-18 10:25:00",
+    "answers": {"q_py_1": "def", "q_py_2": "3", "q_py_3": "List", "q_py_4": "Sequence from 1 to 4", "q_py_5": "# comment", "q_py_6": "numbers", "q_py_7": "9", "q_py_8": "strip()", "q_py_9": "False", "q_py_10": "ValueError"}
+  },
+  {
+    "attempt_id": "att_4",
+    "username": "rohit",
+    "quiz_id": "quiz_data_structures",
+    "score": 9,
+    "total_questions": 10,
+    "percentage": 90.0,
+    "time_taken_seconds": 195,
+    "submitted_at": "2026-08-18 10:45:00",
+    "answers": {"q_ds_1": "Stack", "q_ds_2": "O(1)", "q_ds_3": "In-order", "q_ds_4": "O(n^2)", "q_ds_5": "Queue", "q_ds_6": "At the root (index 0)", "q_ds_7": "O(V^2)", "q_ds_8": "Deque (Double-Ended Queue)", "q_ds_9": "Height(Left) - Height(Right)", "q_ds_10": "Kruskal's Algorithm"}
+  },
+  {
+    "attempt_id": "att_5",
+    "username": "sneha",
+    "quiz_id": "quiz_data_structures",
+    "score": 6,
+    "total_questions": 10,
+    "percentage": 60.0,
+    "time_taken_seconds": 260,
+    "submitted_at": "2026-08-18 10:50:00",
+    "answers": {"q_ds_1": "Stack", "q_ds_2": "O(n)", "q_ds_3": "In-order", "q_ds_4": "O(n log n)", "q_ds_5": "Queue", "q_ds_6": "At the root (index 0)", "q_ds_7": "O(V^2)", "q_ds_8": "Deque (Double-Ended Queue)", "q_ds_9": "Height(Left) - Height(Right)", "q_ds_10": "Kruskal's Algorithm"}
+  }
+]

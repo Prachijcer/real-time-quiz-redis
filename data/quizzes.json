@@ -1,0 +1,138 @@
+[
+  {
+    "id": "quiz_python_basics",
+    "title": "Python Basics",
+    "description": "Test your fundamental knowledge of Python language syntax, data types, and control flow.",
+    "duration_minutes": 5,
+    "questions": [
+      {
+        "id": "q_py_1",
+        "question": "Which file extension is used for Python source code files?",
+        "options": [".java", ".py", ".html", ".cpp"],
+        "correct_answer": ".py"
+      },
+      {
+        "id": "q_py_2",
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["func", "def", "function", "define"],
+        "correct_answer": "def"
+      },
+      {
+        "id": "q_py_3",
+        "question": "Which of the following data types in Python is immutable?",
+        "options": ["List", "Dictionary", "Tuple", "Set"],
+        "correct_answer": "Tuple"
+      },
+      {
+        "id": "q_py_4",
+        "question": "What is the output of len({'a': 1, 'b': 2, 'c': 3})?",
+        "options": ["3", "6", "2", "Error"],
+        "correct_answer": "3"
+      },
+      {
+        "id": "q_py_5",
+        "question": "How do you write a single-line comment in Python?",
+        "options": ["// comment", "<!-- comment -->", "# comment", "/* comment */"],
+        "correct_answer": "# comment"
+      },
+      {
+        "id": "q_py_6",
+        "question": "Which built-in module in Python provides mathematical functions?",
+        "options": ["math", "calc", "numbers", "sys"],
+        "correct_answer": "math"
+      },
+      {
+        "id": "q_py_7",
+        "question": "What is the result of 3 ** 2 in Python?",
+        "options": ["6", "9", "8", "5"],
+        "correct_answer": "9"
+      },
+      {
+        "id": "q_py_8",
+        "question": "Which method is used to remove whitespace from both ends of a string?",
+        "options": ["trim()", "strip()", "cut()", "clean()"],
+        "correct_answer": "strip()"
+      },
+      {
+        "id": "q_py_9",
+        "question": "What will bool([]) evaluate to?",
+        "options": ["True", "False", "None", "Error"],
+        "correct_answer": "False"
+      },
+      {
+        "id": "q_py_10",
+        "question": "Which exception is raised when a key is not found in a dictionary?",
+        "options": ["IndexError", "ValueError", "KeyError", "LookupError"],
+        "correct_answer": "KeyError"
+      }
+    ]
+  },
+  {
+    "id": "quiz_data_structures",
+    "title": "Data Structures",
+    "description": "Evaluate your understanding of arrays, stacks, queues, hash tables, and algorithm efficiency.",
+    "duration_minutes": 5,
+    "questions": [
+      {
+        "id": "q_ds_1",
+        "question": "Which data structure follows the LIFO (Last In First Out) principle?",
+        "options": ["Queue", "Stack", "Array", "Linked List"],
+        "correct_answer": "Stack"
+      },
+      {
+        "id": "q_ds_2",
+        "question": "What is the average time complexity of searching an element in a Hash Table?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+        "correct_answer": "O(1)"
+      },
+      {
+        "id": "q_ds_3",
+        "question": "Which tree traversal processes nodes in order: Left, Root, Right?",
+        "options": ["Pre-order", "Post-order", "In-order", "Level-order"],
+        "correct_answer": "In-order"
+      },
+      {
+        "id": "q_ds_4",
+        "question": "What is the worst-case time complexity of Quick Sort?",
+        "options": ["O(n log n)", "O(n)", "O(n^2)", "O(log n)"],
+        "correct_answer": "O(n^2)"
+      },
+      {
+        "id": "q_ds_5",
+        "question": "Which data structure is primarily used for Breadth-First Search (BFS) in graphs?",
+        "options": ["Stack", "Queue", "Priority Queue", "Binary Search Tree"],
+        "correct_answer": "Queue"
+      },
+      {
+        "id": "q_ds_6",
+        "question": "In a max-heap of size N, where is the maximum element always located?",
+        "options": ["At the root (index 0)", "At a leaf node", "In the middle", "At the last index"],
+        "correct_answer": "At the root (index 0)"
+      },
+      {
+        "id": "q_ds_7",
+        "question": "What is the space complexity of an adjacency matrix representation of a graph with V vertices?",
+        "options": ["O(V)", "O(V^2)", "O(E)", "O(V + E)"],
+        "correct_answer": "O(V^2)"
+      },
+      {
+        "id": "q_ds_8",
+        "question": "Which structure allows insertion and deletion from both ends?",
+        "options": ["Queue", "Priority Queue", "Deque (Double-Ended Queue)", "Stack"],
+        "correct_answer": "Deque (Double-Ended Queue)"
+      },
+      {
+        "id": "q_ds_9",
+        "question": "What is the balance factor of an AVL tree node?",
+        "options": ["Height(Left) - Height(Right)", "Height(Right) * 2", "Number of children", "Node depth"],
+        "correct_answer": "Height(Left) - Height(Right)"
+      },
+      {
+        "id": "q_ds_10",
+        "question": "Which algorithm finds the shortest path in a weighted graph with non-negative edge weights?",
+        "options": ["Dijkstra's Algorithm", "Kruskal's Algorithm", "Prim's Algorithm", "Bellman-Ford Algorithm"],
+        "correct_answer": "Dijkstra's Algorithm"
+      }
+    ]
+  }
+]
